@@ -26,5 +26,6 @@ body{
 
 }
 #post{
-   padding: 1em; 
+   padding: 1em;
+   color: rgb(192, 31, 31); 
 }
