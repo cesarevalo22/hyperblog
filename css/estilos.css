@@ -27,9 +27,13 @@ body{
 }
 #post{
    padding: 1em;
-<<<<<<< HEAD
    color: rgb(46, 202, 54); 
-=======
-   color: rgb(192, 31, 31); 
->>>>>>> cabecera
+}
+
+#footer{
+    border: 1px solid #333;
+    background: rgb(136, 255, 255);
+    color: black;
+    text-align: center;
+    font-weight: bold;
 }
